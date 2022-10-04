@@ -7,6 +7,10 @@ output: github_document
 
 Here is the text
 
+# My second commit
+
+More text for my 2nd commit
+
 
 ```{r}
 
