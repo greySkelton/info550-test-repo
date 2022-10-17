@@ -4,19 +4,14 @@ author: Grey Skelton
 output: github_document
 ---
 # My first commit
-
 Here is the text
 
 # My second commit
-
 More text for my 2n
 
 # my 3rd commit
-
 final commit
-
 another change
 
 # my test bracnh
-
 Here is some text to commit to the test branch
