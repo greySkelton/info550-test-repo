@@ -5,7 +5,7 @@ Grey Skelton
 # My first commit
 
 Here is the text I am now adding a new line to this first commit section
-of the readme
+of the readme text for another commit text for yet another commit
 
 # My second commit
 
