@@ -7,6 +7,8 @@ Grey Skelton
 Here is the text I am now adding a new line to this first commit section
 of the readme text for another commit text for yet another commit
 
+another sentence for commit testing.
+
 # My second commit
 
 More text for my 2n
