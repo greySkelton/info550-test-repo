@@ -6,6 +6,7 @@ output: github_document
 # My first commit
 Here is the text
 I am now adding a new line to this first commit section of the readme
+text for another commit
 
 # My second commit
 More text for my 2n
