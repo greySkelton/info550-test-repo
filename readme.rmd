@@ -16,3 +16,6 @@ another change
 
 # my test bracnh
 Here is some text to commit to the test branch
+
+# My new test branch section
+Here is some text to be commited to the new test branch
